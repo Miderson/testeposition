@@ -5,11 +5,13 @@
 .primeira {
 	width: 400px;
 	height: 400px;
-	background-color: blue;
+	background-color: purple;
+	
 }
 
 .segunda {
 	width: 200px;
 	height: 200px;
-	background-color:green;
+	background-color: red;
+
 }
