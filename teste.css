@@ -1,0 +1,17 @@
+//body {
+	height: 300vh;
+}
+
+.primeira {
+	width: 400px;
+	height: 400px;
+	background-color: blue;
+	position:  static;
+	top: 100px;
+}
+
+.segunda {
+	width: 200px;
+	height: 200px;
+	background-color:green;
+}
